@@ -1,0 +1,160 @@
+2020-04-10 12:40:55,350 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-10 12:41:13,557 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:vja:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\gateway\pom.xml.
+2020-04-10 12:41:14,520 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:gateway:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\zuul-server\pom.xml.
+2020-04-10 12:41:14,898 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:image:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\image\pom.xml.
+2020-04-10 12:41:15,477 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:server:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\server\pom.xml.
+2020-04-10 12:41:17,522 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/main/java
+2020-04-10 12:41:17,523 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2020-04-10 12:41:17,523 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2020-04-10 12:41:17,524 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/test/java
+2020-04-10 12:41:17,881 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/main/java
+2020-04-10 12:41:17,882 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2020-04-10 12:41:17,882 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2020-04-10 12:41:17,882 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/test/java
+2020-04-10 12:41:18,067 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2020-04-10 12:41:18,067 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2020-04-10 12:41:18,068 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2020-04-10 12:41:18,068 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2020-04-10 12:41:18,414 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /image/src/main/java
+2020-04-10 12:41:18,414 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /image/src/main/resources
+2020-04-10 12:41:18,414 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /image/src/main/resources
+2020-04-10 12:41:18,415 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /image/src/test/java
+2020-04-10 12:41:18,733 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 7 sec
+2020-04-10 12:41:20,683 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:41:20,687 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:41:20,698 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:41:20,701 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:41:20,701 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\gateway\src\test\resources
+2020-04-10 12:41:21,584 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:41:21,585 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:41:21,606 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:41:21,608 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:41:21,608 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\image\src\test\resources
+2020-04-10 12:41:22,455 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:41:22,456 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:41:22,464 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:41:22,466 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:41:22,466 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\server\src\test\resources
+2020-04-10 12:41:23,057 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:41:23,057 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:41:23,064 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:41:23,065 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:41:23,065 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\zuul-server\src\test\resources
+2020-04-10 12:42:49,790 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-10 12:42:50,038 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:gateway:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\zuul-server\pom.xml.
+2020-04-10 12:42:50,581 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/main/java
+2020-04-10 12:42:50,582 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2020-04-10 12:42:50,582 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2020-04-10 12:42:50,582 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/test/java
+2020-04-10 12:42:50,919 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-10 12:42:51,543 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:42:51,544 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:42:51,548 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:42:51,550 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:42:51,550 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\zuul-server\src\test\resources
+2020-04-10 12:44:34,064 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:vja-booking:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\gateway\pom.xml.
+2020-04-10 12:44:36,576 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:44:36,577 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:44:36,577 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:44:36,579 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:44:36,579 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\gateway\src\test\resources
+2020-04-10 12:44:36,926 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:gateway:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\zuul-server\pom.xml.
+2020-04-10 12:44:38,198 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:44:38,198 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:44:38,199 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:44:38,201 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:44:38,201 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\zuul-server\src\test\resources
+2020-04-10 12:44:47,550 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:vja-ticket:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\image\pom.xml.
+2020-04-10 12:44:49,002 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:44:49,005 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:44:49,005 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:44:49,007 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:44:49,008 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\image\src\test\resources
+2020-04-10 12:45:20,266 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:vja-booking:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\gateway\pom.xml.
+2020-04-10 12:45:20,704 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:gateway:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\zuul-server\pom.xml.
+2020-04-10 12:45:20,900 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:vja-ticket:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\image\pom.xml.
+2020-04-10 12:45:21,121 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:server:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\server\pom.xml.
+2020-04-10 12:45:22,286 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/main/java
+2020-04-10 12:45:22,287 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2020-04-10 12:45:22,288 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2020-04-10 12:45:22,289 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/test/java
+2020-04-10 12:45:22,459 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/main/java
+2020-04-10 12:45:22,459 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2020-04-10 12:45:22,459 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2020-04-10 12:45:22,459 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/test/java
+2020-04-10 12:45:22,731 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /image/src/main/java
+2020-04-10 12:45:22,731 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /image/src/main/resources
+2020-04-10 12:45:22,732 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /image/src/main/resources
+2020-04-10 12:45:22,732 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /image/src/test/java
+2020-04-10 12:45:22,878 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2020-04-10 12:45:22,878 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2020-04-10 12:45:22,878 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2020-04-10 12:45:22,878 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2020-04-10 12:45:23,040 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 5 sec
+2020-04-10 12:45:23,961 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:45:23,961 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:45:23,975 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:45:23,977 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:45:23,977 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\gateway\src\test\resources
+2020-04-10 12:45:24,680 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:45:24,681 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:45:24,694 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:45:24,696 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:45:24,696 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\image\src\test\resources
+2020-04-10 12:45:25,292 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:45:25,293 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:45:25,320 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:45:25,322 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:45:25,322 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\server\src\test\resources
+2020-04-10 12:45:25,835 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:45:25,835 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:45:25,837 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:45:25,838 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:45:25,839 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\zuul-server\src\test\resources
+2020-04-10 12:48:37,647 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:gateway:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\zuul-server\pom.xml.
+2020-04-10 12:48:38,137 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:48:38,138 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:48:38,139 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:48:38,140 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:48:38,141 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\zuul-server\src\test\resources
+2020-04-10 12:49:22,151 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:vja-booking:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\gateway\pom.xml.
+2020-04-10 12:49:22,536 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:gateway:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\zuul-server\pom.xml.
+2020-04-10 12:49:22,743 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:vja-ticket:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\image\pom.xml.
+2020-04-10 12:49:22,975 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.tubean.eureka:server:0.0.1-SNAPSHOT @ C:\Users\CowSu\Desktop\VJA\server\pom.xml.
+2020-04-10 12:49:23,614 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/main/java
+2020-04-10 12:49:23,614 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2020-04-10 12:49:23,614 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2020-04-10 12:49:23,614 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/test/java
+2020-04-10 12:49:23,808 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/main/java
+2020-04-10 12:49:23,808 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2020-04-10 12:49:23,808 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2020-04-10 12:49:23,809 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/test/java
+2020-04-10 12:49:24,040 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /image/src/main/java
+2020-04-10 12:49:24,041 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /image/src/main/resources
+2020-04-10 12:49:24,041 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /image/src/main/resources
+2020-04-10 12:49:24,041 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /image/src/test/java
+2020-04-10 12:49:24,177 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2020-04-10 12:49:24,177 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2020-04-10 12:49:24,177 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2020-04-10 12:49:24,178 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2020-04-10 12:49:24,321 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 2 sec
+2020-04-10 12:49:25,206 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:49:25,207 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:49:25,218 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:49:25,219 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:49:25,220 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\gateway\src\test\resources
+2020-04-10 12:49:25,955 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:49:25,956 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:49:25,970 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:49:25,985 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:49:25,985 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\image\src\test\resources
+2020-04-10 12:49:26,585 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:49:26,586 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:49:26,588 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:49:26,590 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:49:26,590 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\server\src\test\resources
+2020-04-10 12:49:27,080 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:49:27,080 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-10 12:49:27,081 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-10 12:49:27,083 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-10 12:49:27,083 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CowSu\Desktop\VJA\zuul-server\src\test\resources
